@@ -39,6 +39,7 @@ def remove_task():
 def main_menu():
   while True:
      print("--------MAIN MENU--------")
+     print("choose one option:")
      print("1. Show Tasks")
      print("2. Add Task")
      print("3. Complete Task")
