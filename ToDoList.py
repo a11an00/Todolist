@@ -40,7 +40,7 @@ def main_menu():
   while True:
      print("--------MAIN MENU--------")
      print("choose one option:")
-    
+     print("available options:")
      print("1. Show Tasks")
      print("2. Add Task")
      print("3. Complete Task")
